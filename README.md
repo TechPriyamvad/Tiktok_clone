@@ -1,6 +1,6 @@
 ## TikTok Clone 🚀 🚀 🚀
 
-Live Demo 👉 https://tik-tok-clone-eb635.web.app/
+Live Demo 👉 https://tiktokclone-10fcb.web.app
 
 ### How to get Started!
 
